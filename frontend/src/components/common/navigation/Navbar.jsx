@@ -103,7 +103,7 @@ const Navbar = () => {
 					num={4}
 				/> */}
 				{/* <NavButton title='Chat' dotColor='#03c9D7' customFunc={() => handleClick('chat')} color='blue' icon={<BsChatLeft />} /> */}
-				<Link href='/user/notifications'>
+				<Link href='#'>
 					<NavButton
 						title='Notifications'
 						dotColor='red'
